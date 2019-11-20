@@ -24,4 +24,4 @@ steps:
 
 
 
-- script: google-chrome index.html
+- script: google-chrome "index.html"
