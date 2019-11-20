@@ -24,4 +24,4 @@ steps:
 
 
 
-- script: python -mhtmllib Calculator.html
+- script: python -mhtmllib index.html
